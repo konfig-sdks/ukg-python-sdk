@@ -1,0 +1,7 @@
+from ukg_python_sdk.paths.configuration_v1_earnings_calculation_rule_tax_category_use_deduction_offset_country_code_include_in_shift_diffrential_include_in_manual_check.get import ApiForget
+
+
+class ConfigurationV1EarningsCalculationRuleTaxCategoryUseDeductionOffsetCountryCodeIncludeInShiftDiffrentialIncludeInManualCheck(
+    ApiForget,
+):
+    pass
